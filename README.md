@@ -1,4 +1,4 @@
-# jp28minsk: Hi! I'm Julia (Yuliya) 👀
+# Hi! I'm Julia (Yuliya) 👀
 
 Happy to see you here,
 
